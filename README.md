@@ -1,3 +1,10 @@
+## How to use
+```
+$ git clone https://github.com/hapumee/frame-react-and-storybook
+$ cd frame-react-and-storybook
+$ git install
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
