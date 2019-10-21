@@ -2,7 +2,7 @@
 ```
 $ git clone https://github.com/hapumee/frame-react-and-storybook
 $ cd frame-react-and-storybook
-$ git install
+$ npm install
 ```
 
 ## Available Scripts
