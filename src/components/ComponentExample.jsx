@@ -4,10 +4,9 @@ class ComponentExample extends Component {
     render() {
         return (
             <div>
-                <p>Component Example</p>
+                <p><b>Component Example</b></p>
                 <hr />
-                <p>New that the story 'Welcome' and 'Click Action Example' are demo for usage of storybook,</p>
-                <p>just eliminate those stories.</p>
+                <p>this is the sample component.</p>
             </div>
         )
     }
