@@ -13,7 +13,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "start-storybook": "start-storybook -p 9001 -c .storybook-app",
-    "build-storybook": "build-storybook -c .storybook-app -o .storybook-app-dist"
+    "build-storybook": "build-storybook -c .storybook-app -o .storybook-app-dist",
+    "deploy-storybook": "storybook-to-ghpages"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -35,6 +36,7 @@
     "@storybook/addon-links": "^5.2.4",
     "@storybook/addons": "^5.2.4",
     "@storybook/react": "^5.2.4",
+    "@storybook/storybook-deployer": "^2.8.1",
     "cross-env": "^6.0.3"
   }
 }

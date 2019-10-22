@@ -6,7 +6,7 @@ class ComponentExample extends Component {
             <div>
                 <p><b>Component Example</b></p>
                 <hr />
-                <p>this is the sample component.</p>
+                <p>This is the sample component.</p>
             </div>
         )
     }
