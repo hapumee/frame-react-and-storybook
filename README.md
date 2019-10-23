@@ -52,7 +52,7 @@ Build storybook configured in the Storybook directory into a static web app and 
 
 When you want to test it locally, run below and open [http://127.0.0.1:8080/index.html](http://127.0.0.1:8080/index.html) in the browser. 
 ```
-npx http-server .storybook-app-dist
+$ npx http-server .storybook-app-dist
 ```
 
 ### `npm run deploy-storybook`
