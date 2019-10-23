@@ -21,13 +21,12 @@ Open [http://localhost:9001](http://localhost:9001) to view it in the browser.
 
 ### `npm run build-storybook`
 Build storybook configured in the Storybook directory into a static web app and place it inside the `.storybook-app-dist` directory.<br />
-And you can deploy the content in the `.storybook-app-dist` directory where you want.
+Also you can deploy the content in the `.storybook-app-dist` directory where you want.
 
-When you want to test it locally, run like below,
+When you want to test it locally, run below and open [http://127.0.0.1:8080/index.html](http://127.0.0.1:8080/index.html) in the browser. 
 ```
 npx http-server .storybook-app-dist
 ```
-and open [http://127.0.0.1:8080/index.html](http://127.0.0.1:8080/index.html) in the vrowser.
 
 ### `npm run deploy-storybook`
 
